@@ -1,19 +1,25 @@
 # Jobs
-# VP of Global Communications
-- company: Springfield International Human Rights Outreach
-  position: VP of Global Communications
-  duration: Oct, 2013 &mdash; Present
-  summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points	<ul class="resume-item-list"><li>A project you are proud of</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>
+- company: Liaison International
+  position: Principal Software Engineer (Engineer IV)
+  duration: Jan, 2013 &mdash; Present
+  summary: Led a team of roughly 20 engineers that maintained and developed new features for WebAdMIT, a large-scale college admissions software. Helped the team adopt agile practices like TDD, pair programming, and code reviews. Ran daily standups to establish goals for the day and clear blockers. Created a set of user-facing RESTful APIs. Led the effort in optimizing WebAdMIT’s performance. Managed the release process and served as the on-call developer in case of a critical failure.
 
-# Director of Digital Stratgy
-- company: United Nations Human Rights Council
-  position: Director of Digital Strategy
-  duration:  Jun, 2010 &mdash; Sept, 2013
-  summary: If your stint was shorter, feel free to be brief and just call out the most meaningful points of your role. Be concise, and be meaninful. The person reading just needs enough to want to talk to you more about your experience.
+- company: Academic Software Plus
+  position: Software Engineer
+  duration: Jan, 2012 &mdash; Jan, 2013
+  summary: Developed new features and maintained a Ruby on Rails application. Automated the new customer onboarding process. Managed an ETL process that receives data from numerous databases and unifies the data into a single database. Work closely with a quality assurance team to provide the best possible user experience.
 
+- company: Great Lakes Center
+  position: Software Engineer Intern
+  duration: Sept, 2010  &mdash; Dec, 2011
+  summary: Managed the flow of data from instrumentation deployed in Lake Erie. Created, maintained and deployed a website in PHP. Designed and deployed an Microsoft SQL Server database. Wrote an ETL service in Python for transmitting data from the instrumentation to our database, including error handling and validation. Provided computational statistical analysis of the data gathered.
 
-# Communications Coordinator
-- company: Springfield Women & Children's Center
-  position: Communications Coordinator
-  duration:   Jun, 2008  &mdash; May, 2010
-  summary: Led communication efforts across digital and traditional media channels for marketing and public relations, internal communication strategies, and coordinated support programs for the recipients of the center's services.
+- company: Buffalo State College
+  position: Research Assistant
+  duration: Jan, 2009  &mdash; Jan, 2010
+  summary: Focused on the study of rare events in optical fiber systems and developed efficient methods for calculating the likelihood of outages induced by polarization mode dispersion. Performed computational, statistical and mathematical research and ran statistical analysis in Matlab. Presented findings at the 2010 Joint Mathematics Meeting (JMM) in San Francisco. JMM is a yearly conference billed as the “largest mathematics meeting in the world.”
+
+- company: Buffalo State College Computing Services
+  position: Technical Support Representative
+  duration: Sept, 2007  &mdash; Jan, 2009
+  summary: Performed maintenance and troubleshooting on the computers at Buffalo State College. Maintained and repaired systems for faculty, staff, and students across campus by providing support for Mac OS and Windows.
