@@ -7,12 +7,12 @@
 - company: Academic Software Plus
   position: Software Engineer
   duration: Jan, 2012 &mdash; Jan, 2013
-  summary: Developed new features and maintained a Ruby on Rails application. Automated the new customer onboarding process. Managed an ETL process that receives data from numerous databases and unifies the data into a single database. Work closely with a quality assurance team to provide the best possible user experience.
+  summary: Developed new features and maintained a Ruby on Rails application. Automated the new customer onboarding process. Managed an ETL process that receives data from numerous databases and unifies the data into a single database. Worked closely with a quality assurance team to provide the best possible user experience.
 
 - company: Great Lakes Center
   position: Software Engineer Intern
   duration: Sept, 2010  &mdash; Dec, 2011
-  summary: Managed the flow of data from instrumentation deployed in Lake Erie. Created, maintained and deployed a website in PHP. Designed and deployed an Microsoft SQL Server database. Wrote an ETL service in Python for transmitting data from the instrumentation to our database, including error handling and validation. Provided computational statistical analysis of the data gathered.
+  summary: Managed the flow of data from instrumentation deployed in Lake Erie. Created, maintained and deployed a website in PHP. Designed and deployed a Microsoft SQL Server database. Wrote an ETL service in Python for transmitting data from the instrumentation to our database, including error handling and validation. Provided computational statistical analysis of the data gathered.
 
 - company: Buffalo State College
   position: Research Assistant
