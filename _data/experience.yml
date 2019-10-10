@@ -2,7 +2,7 @@
 - company: Liaison International
   position: Principal Software Engineer (Engineer IV)
   duration: Jan, 2013 &mdash; Present
-  summary: Led a team of roughly 20 engineers that maintained and developed new features for WebAdMIT, a large-scale college admissions software. Helped the team adopt agile practices like TDD, pair programming, and code reviews. Ran daily standups to establish goals for the day and clear blockers. Created a set of user-facing RESTful APIs. Led the effort in optimizing WebAdMIT’s performance. Managed the release process and served as the on-call developer in case of a critical failure.
+  summary: Led a team of roughly 20 engineers that maintained and developed new features for WebAdMIT. WebAdMIT is a large-scale Ruby on Rails application, with a Vue front-end, and a PostgreSQL database. Helped the team adopt agile practices like TDD, pair programming, and code reviews. Ran daily standups to establish goals for the day and clear blockers. Created a set of user-facing RESTful APIs. Led the effort in optimizing WebAdMIT’s performance. Managed the release process and served as the on-call developer in case of a critical failure.
 
 - company: Academic Software Plus
   position: Software Engineer
