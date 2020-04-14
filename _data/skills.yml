@@ -1,10 +1,10 @@
 # Skills
 - skill: Languages and Frameworks
-  description: Ruby, Ruby on Rails, JavaScript, React, C++, Tableau, Python, Mathematica,
+  description: Ruby, Ruby on Rails, JavaScript, Node.js, Vue.js, Python, C++, Mathematica,
     Matlab
 
 - skill: Databases
-  description: PostgreSQL, Microsoft SQL Server, RabbitMQ, Redis
+  description: PostgreSQL, Microsoft SQL Server, RabbitMQ, Redis, Elastic Search
 
 - skill: Other
-  description: Test Driven Development, Scrum, Git, Docker, Kubernetes, AWS
+  description: Test Driven Development, Scrum, git, Docker, Kubernetes, AWS, GCE, Tableau
