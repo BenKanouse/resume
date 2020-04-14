@@ -117,6 +117,25 @@
       <!-- end Projects -->
       {% endif %}
 
+      {% if site.resume_section_open_source %}
+      <!-- Open Source -->
+      <section class="content-section">
+
+        <header class="section-header">
+          <h2>Open Source</h2>
+        </header>
+        <div class="resume-item">
+          {% for open_source in site.data.open_source %}
+          <ul>
+            <li class="resume-item-copy">{{ open_source.description }}</li>
+          </ul>
+          {% endfor %}
+        </div>
+
+      </section>
+      <!-- Open Source -->
+      {% endif %}
+
       {% if site.resume_section_skills %}
       <!-- begin Skills -->
       <section class="content-section">

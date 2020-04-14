@@ -1,0 +1,6 @@
+- skill: Contributions
+  description: Open source contributions to Ruby/IRB, ActiveRecord SQL Server Adapter, and minitest-bang.
+- skill: Authored
+  description: Authored BenKanouse/ecc, a Ruby project that calculates public and private keys using the elliptical curve cryptography.
+- skill: Authored
+  description: Author of blog.benkanouse.com, a blog where I post about writing software.
