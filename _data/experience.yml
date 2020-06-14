@@ -1,20 +1,20 @@
 # Jobs
 - company: Liaison International
   position: Principal Software Engineer (Engineer IV)
-  duration: Jan, 2013 &mdash; Present
+  duration: Jan, 2013 - Present
   summary: Led a team of roughly 20 engineers that maintained and developed new features for WebAdMIT. WebAdMIT is a large-scale Ruby on Rails application, with a Vue front-end, and a PostgreSQL database. Helped the team adopt agile practices like TDD, pair programming, and code reviews. Ran daily standups to establish goals for the day and clear blockers. Created a set of user-facing RESTful APIs. Led the effort in optimizing WebAdMIT’s performance. Managed the release process and served as the on-call developer in case of a critical failure.
 
 - company: Academic Software Plus
   position: Software Engineer
-  duration: Jan, 2012 &mdash; Jan, 2013
+  duration: Jan, 2012 - Jan, 2013
   summary: Developed new features and maintained a Ruby on Rails application. Automated the new customer onboarding process. Managed an ETL process that receives data from numerous databases and unifies the data into a single database. Worked closely with a quality assurance team to provide the best possible user experience.
 
 - company: Great Lakes Center
   position: Software Engineer Intern
-  duration: Sept, 2010  &mdash; Dec, 2011
+  duration: Sept, 2010 - Dec, 2011
   summary: Managed the flow of data from instrumentation deployed in Lake Erie. Created, maintained and deployed a website in PHP. Designed and deployed a Microsoft SQL Server database. Wrote an ETL service in Python for transmitting data from the instrumentation to our database, including error handling and validation. Provided computational statistical analysis of the data gathered.
 
 - company: Buffalo State College
   position: Research Assistant
-  duration: Jan, 2009  &mdash; Jan, 2010
+  duration: Jan, 2009 - Jan, 2010
   summary: Focused on the study of rare events in optical fiber systems and developed efficient methods for calculating the likelihood of outages induced by polarization mode dispersion. Performed computational, statistical and mathematical research and ran statistical analysis in Matlab. Presented findings at the 2010 Joint Mathematics Meeting (JMM) in San Francisco. JMM is a yearly conference billed as the “largest mathematics meeting in the world.”
