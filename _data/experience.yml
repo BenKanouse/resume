@@ -1,7 +1,12 @@
 # Jobs
+- company: Modo Labs
+  position: Software Engineer
+  duration: Aug, 2020 - Present
+  summary: Served as a team lead for Analyze, a Ruby on Rails application dedicated to collecting and analyzing web traffic across all of Modo's products. Pioneered the development of a space booking and scheduling product, guiding it from conception to profitability. Maintained a large number of AWS Lambdas. Led the effort to enhance the performance and scalability of all Ruby on Rails applications within Modo.
+
 - company: Liaison International
   position: Principal Software Engineer (Engineer IV)
-  duration: Jan, 2013 - Present
+  duration: Jan, 2013 - Jul, 2020
   summary: Led a team of roughly 20 engineers that maintained and developed new features for WebAdMIT. WebAdMIT is a large-scale Ruby on Rails application, with a Vue front-end, and a PostgreSQL database. Helped the team adopt agile practices like TDD, pair programming, and code reviews. Ran daily standups to establish goals for the day and clear blockers. Created a set of user-facing RESTful APIs. Led the effort in optimizing WebAdMIT’s performance. Managed the release process and served as the on-call developer in case of a critical failure.
 
 - company: Academic Software Plus
