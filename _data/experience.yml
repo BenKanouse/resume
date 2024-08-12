@@ -1,25 +1,50 @@
 # Jobs
 - company: Modo Labs
-  position: Software Engineer
+  position: Principal Software Engineer
   duration: Aug, 2020 - Present
-  summary: Served as a team lead for Analyze, a Ruby on Rails application dedicated to collecting and analyzing web traffic across all of Modo's products. Pioneered the development of a space booking and scheduling product, guiding it from conception to profitability. Maintained a large number of AWS Lambdas. Led the effort to enhance the performance and scalability of all Ruby on Rails applications within Modo.
+  summary:
+    - Served as the team lead for Analyze, a Ruby on Rails application processing tens of millions of page views daily, backed by a multi-terabyte PostgreSQL database.
+    - Spearheaded the development and launch of a space booking and scheduling product, guiding it from conception to profitability.
+    - Created and deployed numerous AWS Lambda functions, streamlining and automating critical processes.
+    - Directed efforts to improve the performance and scalability of all Ruby on Rails applications at Modo.
+    - Acted as the go-to expert for production issues, consistently resolving critical incidents and ensuring minimal downtime.
+    - Helped the migration of all Ruby on Rails applications from Heroku to Kubernetes on AWS, significantly improving scalability, control, and cost efficiency.
 
 - company: Liaison International
-  position: Principal Software Engineer (Engineer IV)
+  position: Principal Software Engineer
   duration: Jan, 2013 - Jul, 2020
-  summary: Led a team of roughly 20 engineers that maintained and developed new features for WebAdMIT. WebAdMIT is a large-scale Ruby on Rails application, with a Vue front-end, and a PostgreSQL database. Helped the team adopt agile practices like TDD, pair programming, and code reviews. Ran daily standups to establish goals for the day and clear blockers. Created a set of user-facing RESTful APIs. Led the effort in optimizing WebAdMIT’s performance. Managed the release process and served as the on-call developer in case of a critical failure.
+  summary:
+    - Led a team of 20 engineers in the development and maintenance of WebAdMIT, a large-scale Ruby on Rails application with a Vue.js front-end and PostgreSQL backend.
+    - Championed the adoption of agile practices, including TDD, pair programming, and code reviews.
+    - Facilitated daily standups to align the team, set goals, and resolve blockers, ensuring smooth project execution.
+    - Designed and implemented user-facing RESTful APIs.
+    - Optimized WebAdMIT's performance, reducing page load times and enhancing overall user experience.
+    - Managed the release process and served as the primary on-call engineer, quickly resolving critical issues, limiting the impact to customers.
 
 - company: Academic Software Plus
   position: Software Engineer
   duration: Jan, 2012 - Jan, 2013
-  summary: Developed new features and maintained a Ruby on Rails application. Automated the new customer onboarding process. Managed an ETL process that receives data from numerous databases and unifies the data into a single database. Worked closely with a quality assurance team to provide the best possible user experience.
+  summary:
+    - Developed new features and maintained a Ruby on Rails application.
+    - Automated the customer onboarding process, reducing onboarding time and improving customer retention.
+    - Managed an ETL process, unifying data from multiple sources into a centralized database, improving data accuracy and accessibility.
+    - Collaborated closely with the quality assurance team to provide the best possible user experience.
 
 - company: Great Lakes Center
   position: Software Engineer Intern
   duration: Sept, 2010 - Dec, 2011
-  summary: Managed the flow of data from instrumentation deployed in Lake Erie. Created, maintained and deployed a website in PHP. Designed and deployed a Microsoft SQL Server database. Wrote an ETL service in Python for transmitting data from the instrumentation to our database, including error handling and validation. Provided computational statistical analysis of the data gathered.
+  summary:
+    - Managed the flow of data from an aquatic robot deployed in Lake Erie.
+    - Conducted computational statistical analysis of environmental data, providing valuable insights for ongoing research.
+    - Created, maintained and deployed a website in PHP.
+    - Designed and implemented a Microsoft SQL Server database.
+    - Engineered a Python-based ETL service to transmit data from field instrumentation to our database, incorporating comprehensive error handling and data validation to ensure data integrity.
 
 - company: Buffalo State College
   position: Research Assistant
   duration: Jan, 2009 - Jan, 2010
-  summary: Focused on the study of rare events in optical fiber systems and developed efficient methods for calculating the likelihood of outages induced by polarization mode dispersion. Performed computational, statistical and mathematical research and ran statistical analysis in Matlab. Presented findings at the 2010 Joint Mathematics Meeting (JMM) in San Francisco. JMM is a yearly conference billed as the “largest mathematics meeting in the world.”
+  summary:
+    - Conducted research on rare events in optical fiber systems, developing methods to estimate the likelihood of outages due to polarization mode dispersion.
+    - Performed complex statistical analysis using Matlab, contributing to the understanding of optical fiber reliability.
+    - Contributed to research published in the SIAM Journal on Applied Mathematics (Vol. 73, No. 1), titled "On the Efficiency of Importance Sampling Techniques for Polarization-Mode Dispersion in Optical Fiber Transmission Systems."
+    - Presented research findings at the 2010 Joint Mathematics Meeting in San Francisco, the largest mathematics meeting in the world.
